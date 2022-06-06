@@ -9,6 +9,7 @@ Tech stack for project:
 - Vue
 - TS
 - Vitest
+- Sortable Vue
 
 
 
